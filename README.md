@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+
 [![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrnsyh7)](https://github.com/adrnsyh7/github-readme-stats)
 

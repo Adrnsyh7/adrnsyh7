@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrnsyh7)](https://github.com/adrnsyh7/github-readme-stats)
+[![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrnsyh7)](https://github.com/adrnsyh7/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrnsyh7&layout=compact&theme=radical&hide_border=true" /></a>
 
